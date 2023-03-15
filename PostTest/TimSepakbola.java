@@ -9,7 +9,7 @@ class TimSepakbola {
   
     // Default constructor
     TimSepakbola() {
-      nama = "[NAMA]";
+      nama = "liverpool";
       skor = 0;
       isOnMatch = false;
     }
