@@ -9,7 +9,7 @@ class TimSepakbola {
   
     // Default constructor
     TimSepakbola() {
-      nama = "liverpool";
+      nama = "[NAMA]";
       skor = 0;
       isOnMatch = false;
     }
@@ -19,7 +19,7 @@ class TimSepakbola {
 
     TimSepakbola(String nama){
         this.nama = nama;
-        this.skor = skor;
+        skor = 0;
         isOnMatch = true;
     }
     

@@ -1,11 +1,11 @@
 class MTimSepakbola {
     public static void main(String[] args) {
       // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
-      TimSepakbola liverpool = new TimSepakbola(); 
+      TimSepakbola liverpool = new TimSepakbola( "liverpool"); 
       
       // TODO: Make an instance called 'manchesterUnited' -> use constructor which you have made before
-      TimSepakbola manchesterUnited = new TimSepakbola();
-  
+      TimSepakbola manchesterUnited = new TimSepakbola("manchesterUnited");
+
       // TODO: call startTandingBola()
       
       liverpool.startTandingBola(manchesterUnited);
