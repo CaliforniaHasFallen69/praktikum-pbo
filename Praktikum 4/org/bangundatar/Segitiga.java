@@ -1,5 +1,5 @@
 /**
-* File : Segitiga.java 02/04/2014
+* File : Segitiga.java 15/03/2023
 * Penulis : Zaeri Haikal Rabbani
 * Deskripsi : representasi dasar dari objek segitiga,turunan kelas poligon
 */
