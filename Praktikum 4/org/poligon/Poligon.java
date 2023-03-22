@@ -1,5 +1,5 @@
 /**
-* File : Poligon.java 22/03/2022
+* File : Poligon.java 22/03/2023
 * Penulis : Zaeri Haikal Rabbani
 * Deskripsi : representasi dasar dari objek poligon (segi banyak)
 */
