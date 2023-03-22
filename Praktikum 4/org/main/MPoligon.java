@@ -1,5 +1,5 @@
 /**
-* File : MPoligon.java 02/04/2014
+* File : MPoligon.java 15/03/2023
 * Penulis : Zaeri Haikal Rabbani
 * Deskripsi : driver class untuk poligon dan persegi panjang
 */
