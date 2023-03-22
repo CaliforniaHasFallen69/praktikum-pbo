@@ -1,5 +1,5 @@
 /**
- * File : PersegiPanjang.java 02/04/2014
+ * File : PersegiPanjang.java 15/03/2023
  * Penulis : Zaeri Haikal Rabbani
  * Deskripsi : representasi dasar dari objek persegi panjang,turunan kelas poligon
 */
