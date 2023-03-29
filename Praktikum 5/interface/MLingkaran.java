@@ -1,5 +1,5 @@
 /*
- * Nama File    : BangunDatar.java
+ * Nama File    : MLingkaran.java
  * Nama Pembuat : Zaeri Haikal Rabbani
  * NIM          : 24060121140159
  * Deskripsi    : File implementasi cara mengihtung luas lingkaran
