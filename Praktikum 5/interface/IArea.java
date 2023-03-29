@@ -1,5 +1,5 @@
 /*
- * Nama File    : BangunDatar.java
+ * Nama File    : IArea.java
  * Nama Pembuat : Zaeri Haikal Rabbani
  * NIM          : 24060121140159
  * Deskripsi    : File interface untuk mendefinisikan kontrak bahwa setiap kelas yang membuat implementasi dari interface ini harus memiliki cara untuk menghitung luas
