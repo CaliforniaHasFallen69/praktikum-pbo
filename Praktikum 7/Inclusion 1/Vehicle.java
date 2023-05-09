@@ -1,4 +1,4 @@
-/* Nama File    : Bus.java
+/* Nama File    : Vehicle.java
  * Nama         : Zaeri Haikal Rabbani
  * NIM          : 24060121140159
  * Deskripsi    : Superclass Vehicle
